@@ -1,0 +1,2 @@
+pdb,interface,Num_intf_residues,Polar,Hydrophobhic,Charged,contact_pairs, sc, hb, sb, int_solv_en, int_area, pvalue
+ranked_0,C_B,6,0.167,0.667,0.0,4,0.653,1,1,-8.37,445.82,0.15
